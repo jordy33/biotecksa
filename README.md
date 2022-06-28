@@ -26,7 +26,7 @@ Start the development server
 
 Check the service at http://127.0.0.1:8001/
 
-To run to production use the Apache2 file:
+To run into production use the following Apache2 file:
 ```
 biobackend.conf
 ```
