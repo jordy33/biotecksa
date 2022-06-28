@@ -1,0 +1,2 @@
+export BIO_API_HOST=mysql://biobotTest:shinyWhal322@biobottest.ccttyurgugvu.us-east-1.rds.amazonaws.com/biobot_first_release
+export LD_LIBRARY_PATH=/home/wsgi/Python-3.7.3/lib

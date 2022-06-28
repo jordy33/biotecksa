@@ -1,0 +1,64 @@
+[
+  {
+    "nombre": "Cuadrante",
+    "ciclo_cultivo_id": 1,
+    "ambiente_cultivo_id": 2,
+    "fecha_inicio": "2019-01-01",
+    "fecha_final": "2019-02-20",
+    "clave_cultivo": "a0qw5YYg",
+    "creador_id": 1,
+    "id": 27,
+    "predios_id": 7,
+    "tipos_cultivo_id": 1,
+    "devices": [
+      {
+        "nombre": "LOTE 18",
+        "clave": "ZdHOeo5s",
+        "id": 48,
+        "tipo_biodispositivos_id": 4,
+        "pivot": {
+          "cultivos_id": 27,
+          "bio_dispositivos_id": 48
+        },
+        "last_log": [
+          {
+            "value_datetime": "2017-10-11 04:17:43",
+            "pivot": {
+              "bio_dispositivos_id": 48,
+              "sensores_id": 108
+            }
+          }
+        ],
+        "device_type": {
+          "id": 4,
+          "nombre": "BOTLOG R3",
+          "modulos": 0
+        }
+      },
+{
+        "nombre": "LOTE 17",
+        "clave": "JoXw23bd",
+        "id": 27,
+        "tipo_biodispositivos_id": 47,
+        "pivot": {
+          "cultivos_id": 27,
+          "bio_dispositivos_id": 47
+        },
+        "last_log": [
+          {
+            "value_datetime": "2017-10-11 04:17:43",
+            "pivot": {
+              "bio_dispositivos_id": 47,
+              "sensores_id": 109
+            }
+          }
+        ],
+        "device_type": {
+          "id": 4,
+          "nombre": "BOTLOG R3",
+          "modulos": 0
+        }
+      }
+    ]
+  }
+]
